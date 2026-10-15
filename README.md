@@ -3,12 +3,12 @@
 AI Engineer • Machine Learning Specialist • Software Developer
 
 ## About Me
-I’m Ali Ahmad, an AI-focused developer building intelligent applications, machine learning systems, and data-driven products that solve real-world problems. I enjoy working across Python, ML pipelines, NLP/LLMs, analytics, and end-to-end software development.
+I’m Ali Ahmad, an AI focused developer building intelligent applications, machine learning systems, and data driven products that solve real world problems. I enjoy working across Python, ML pipelines, NLP/LLMs, analytics, and end to end software development.
 
 - 🔭 Currently building: AI-powered apps, automation workflows, and data-driven solutions
 - 🌱 Learning: advanced machine learning, LLM applications, AI systems design, and scalable product engineering
 - 👯 Open to: collaboration on AI, ML, automation, and software innovation projects
-- 💬 Ask me about: Python, machine learning, AI systems, NLP, data analysis, full-stack development
+- 💬 Ask me about: Python, machine learning, AI systems, NLP, data analysis, full stack development
 - 📫 Contact: sheikhahmed468@gmail.com
 
 ## Skills & Stack
