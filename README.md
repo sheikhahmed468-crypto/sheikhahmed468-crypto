@@ -39,7 +39,7 @@ I’m Ali Ahmad, an AI focused developer building intelligent applications, mach
 Let’s build smarter solutions and turn ideas into impactful AI-driven products.
 
 - GitHub: https://github.com/sheikhahmed468-crypto
-- Email: sheikhahmed468@gmail.com
+- Email: ahmeadanalyst@gmail.com
 
 ---
 
