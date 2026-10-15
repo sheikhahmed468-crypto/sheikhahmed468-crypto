@@ -1,34 +1,45 @@
-# Sheikh Ahmed (sheikhahmed468-crypto)
+# Sheikh Ahmed
 
-Blockchain developer · Smart contract engineer · Crypto enthusiast
+Blockchain Developer • Smart Contract Engineer • Web3 Enthusiast
 
-## About me
-Hi — I'm Sheikh Ahmed. I build decentralized applications, write smart contracts, and explore Web3 infrastructure. I enjoy auditing contracts, learning new L2s, and contributing to open-source crypto tooling.
+## About Me
+I’m Sheikh Ahmed, a blockchain-focused developer building decentralized applications, smart contracts, and crypto tooling. I enjoy exploring the EVM, Solidity, DeFi patterns, and secure on-chain systems.
 
-- 🔭 Currently building: smart contracts and dApps using Solidity & Hardhat
-- 🌱 Learning: advanced DeFi patterns and zero-knowledge proofs
-- 👯 Seeking: collaborators on open-source crypto projects
-- 💬 Ask me about: Solidity, EVM internals, Web3 tooling, tokenomics
-- 📫 Contact: (replace-with-email-or-link)
+- 🔭 Currently building: smart contract projects and Web3 experiments
+- 🌱 Learning: advanced DeFi mechanics, security patterns, and blockchain architecture
+- 👯 Open to: collaboration on open-source crypto and blockchain projects
+- 💬 Ask me about: Solidity, smart contracts, EVM development, blockchain infrastructure
+- 📫 Contact: sheikhahmed468@gmail.com
 
-## Skills & stack
-- Languages: Solidity, JavaScript/TypeScript, Python
-- Frameworks & tools: Hardhat, Truffle, Foundry, ethers.js, Web3.js
-- Testing & tooling: Mocha, Chai, Waffle, Slither, MythX
-- Deployment: IPFS, Infura/Alchemy, Biconomy
-- Concepts: DeFi, NFTs, tokenomics, smart contract security
+## Skills & Stack
+- Languages: Solidity, JavaScript, TypeScript, Python
+- Blockchain & Smart Contracts: Ethereum, EVM, Solidity, Hardhat, Foundry
+- Frontend & Web3: React, Next.js, ethers.js, Web3.js
+- Testing & Security: Mocha, Chai, Hardhat tests, Slither, secure coding practices
+- Deployment & Infra: IPFS, Alchemy, Infura, cloud deployment workflows
+- Concepts: DeFi, NFTs, tokenomics, protocol design, smart contract auditing basics
 
-## Featured projects
-- Project A — short one-line description and link
-- Project B — short one-line description and link
+## Current Focus
+- Smart contract design and implementation
+- Secure blockchain application development
+- DeFi and token ecosystem experimentation
+- Building practical Web3 tools and dApps
 
-(Replace the placeholders above with your project names and links.)
+## Featured Work
+- Smart Contract Playground — Solidity, Hardhat, and EVM-based prototype development
+- DeFi Experiment Lab — staking, token logic, and protocol pattern exploration
+- Web3 Portfolio Projects — personal blockchain apps, learning projects, and technical experiments
 
-## Links
+## GitHub Profile
 - GitHub: https://github.com/sheikhahmed468-crypto
-- Twitter / X: https://twitter.com/your_handle
-- Website / Portfolio: https://your-website.example
+- Email: sheikhahmed468@gmail.com
+
+## Connect
+Let’s build, learn, and innovate in blockchain together.
+
+- GitHub: https://github.com/sheikhahmed468-crypto
+- Email: sheikhahmed468@gmail.com
 
 ---
 
-Thanks for visiting — feel free to connect!
+Thanks for visiting — feel free to connect and collaborate.
