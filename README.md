@@ -9,7 +9,7 @@ I’m Ali Ahmad, an AI focused developer building intelligent applications, mach
 - 🌱 Learning: advanced machine learning, LLM applications, AI systems design, and scalable product engineering
 - 👯 Open to: collaboration on AI, ML, automation, and software innovation projects
 - 💬 Ask me about: Python, machine learning, AI systems, NLP, data analysis, full stack development
-- 📫 Contact: sheikhahmed468@gmail.com
+- 📫 Contact: ahmeadanalyst@gmail.com
 
 ## Skills & Stack
 - Languages: Python, JavaScript, TypeScript, SQL
@@ -33,7 +33,7 @@ I’m Ali Ahmad, an AI focused developer building intelligent applications, mach
 
 ## GitHub Profile
 - GitHub: https://github.com/sheikhahmed468-crypto
-- Email: sheikhahmed468@gmail.com
+- Email: ahmeadanalyst@gmail.com
 
 ## Connect
 Let’s build smarter solutions and turn ideas into impactful AI-driven products.
