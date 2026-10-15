@@ -1,41 +1,42 @@
-# Sheikh Ahmed
+# Ali Ahmad
 
-Blockchain Developer • Smart Contract Engineer • Web3 Enthusiast
+AI Engineer • Machine Learning Specialist • Software Developer
 
 ## About Me
-I’m Sheikh Ahmed, a blockchain-focused developer building decentralized applications, smart contracts, and crypto tooling. I enjoy exploring the EVM, Solidity, DeFi patterns, and secure on-chain systems.
+I’m Ali Ahmad, an AI-focused developer building intelligent applications, machine learning systems, and data-driven products that solve real-world problems. I enjoy working across Python, ML pipelines, NLP/LLMs, analytics, and end-to-end software development.
 
-- 🔭 Currently building: smart contract projects and Web3 experiments
-- 🌱 Learning: advanced DeFi mechanics, security patterns, and blockchain architecture
-- 👯 Open to: collaboration on open-source crypto and blockchain projects
-- 💬 Ask me about: Solidity, smart contracts, EVM development, blockchain infrastructure
+- 🔭 Currently building: AI-powered apps, automation workflows, and data-driven solutions
+- 🌱 Learning: advanced machine learning, LLM applications, AI systems design, and scalable product engineering
+- 👯 Open to: collaboration on AI, ML, automation, and software innovation projects
+- 💬 Ask me about: Python, machine learning, AI systems, NLP, data analysis, full-stack development
 - 📫 Contact: sheikhahmed468@gmail.com
 
 ## Skills & Stack
-- Languages: Solidity, JavaScript, TypeScript, Python
-- Blockchain & Smart Contracts: Ethereum, EVM, Solidity, Hardhat, Foundry
-- Frontend & Web3: React, Next.js, ethers.js, Web3.js
-- Testing & Security: Mocha, Chai, Hardhat tests, Slither, secure coding practices
-- Deployment & Infra: IPFS, Alchemy, Infura, cloud deployment workflows
-- Concepts: DeFi, NFTs, tokenomics, protocol design, smart contract auditing basics
+- Languages: Python, JavaScript, TypeScript, SQL
+- AI & Machine Learning: Python, TensorFlow, PyTorch, scikit-learn, NLP, LLMs, model evaluation
+- Data & Analytics: Pandas, NumPy, data cleaning, visualization, experimentation, feature engineering
+- Backend & APIs: FastAPI, Flask, REST APIs, database integration, scalable services
+- Frontend & Product: React, Next.js, modern UI development, user-focused product design
+- Deployment & Tools: Docker, Git, cloud deployment, CI/CD, MLOps basics
+- Concepts: AI product development, predictive modeling, automation, intelligent systems, data-driven decision making
 
 ## Current Focus
-- Smart contract design and implementation
-- Secure blockchain application development
-- DeFi and token ecosystem experimentation
-- Building practical Web3 tools and dApps
+- Building AI-powered applications and workflow automation
+- Exploring LLMs, NLP, and intelligent assistant experiences
+- Designing practical machine learning solutions for real business use cases
+- Integrating AI into scalable, production-ready systems
 
 ## Featured Work
-- Smart Contract Playground — Solidity, Hardhat, and EVM-based prototype development
-- DeFi Experiment Lab — staking, token logic, and protocol pattern exploration
-- Web3 Portfolio Projects — personal blockchain apps, learning projects, and technical experiments
+- AI Application Projects — intelligent tools, automation workflows, and ML-powered experiences
+- Machine Learning Experiments — model building, evaluation, and data-driven optimization
+- Data & Product Projects — analytics dashboards, smart solutions, and end-to-end application development
 
 ## GitHub Profile
 - GitHub: https://github.com/sheikhahmed468-crypto
 - Email: sheikhahmed468@gmail.com
 
 ## Connect
-Let’s build, learn, and innovate in blockchain together.
+Let’s build smarter solutions and turn ideas into impactful AI-driven products.
 
 - GitHub: https://github.com/sheikhahmed468-crypto
 - Email: sheikhahmed468@gmail.com
